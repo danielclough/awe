@@ -1,4 +1,4 @@
-url: https://awesomehomeinspection.com
+url: http://www.awesomehomeinspection.com
 baseurl: 
 files:  http://localhost:4000/_files/
 
@@ -22,7 +22,7 @@ geo.placename: Las-Vegas
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 
   pic: 1
   position: Lead Designer
   social:
@@ -33,7 +33,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name:
   pic: 2
   position: Lead Marketer
   social:

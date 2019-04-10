@@ -303,7 +303,7 @@ h3 .divider-left {
 }
 
 #footerbox {
-    color: #0f367a;
+    color: #000;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
     font-weight: 400;
@@ -314,7 +314,7 @@ h3 .divider-left {
 }
 
 #footerbox2 {
-    color: #0f367a;
+    color: #000;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
     font-weight: 400;
@@ -324,7 +324,7 @@ h3 .divider-left {
     float:left;
 }
 #footerbox3 {
-    color: #0f367a;
+    color: #000;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
     font-weight: 400;

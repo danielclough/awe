@@ -292,7 +292,7 @@
 }
 
 .footer{
-    background: black;
+    background: #fff;
 }
 
 h3 .divider-left {
@@ -303,7 +303,7 @@ h3 .divider-left {
 }
 
 #footerbox {
-    color: #2870FE;
+    color: #0f367a;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
     font-weight: 400;
@@ -314,7 +314,7 @@ h3 .divider-left {
 }
 
 #footerbox2 {
-    color: #2870FE;
+    color: #0f367a;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
     font-weight: 400;
@@ -324,7 +324,7 @@ h3 .divider-left {
     float:left;
 }
 #footerbox3 {
-    color: #2870FE;
+    color: #0f367a;
     font-family: 'Playfair Display', serif;
     font-size: 15px;
     font-weight: 400;

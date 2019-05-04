@@ -1,4 +1,5 @@
 
+
 #topLogo img{
     width: 60%;
     display: block;
@@ -193,14 +194,13 @@
     margin: auto;
     float: left;
     position: relative;
-
 }
 
 #awesome_copy h3{
     color: #FE2B03;
     float: left;
     font-family: 'Playfair Display', serif;
-    font-size: 32px;
+    font-size: 300%;
     font-weight: 600;
     line-height: 200%;
     margin: 0 auto;
@@ -210,6 +210,10 @@
 }
 #awesome_copy p{
     line-height: 100%;
+        font-size: 110%;
+
+
+        
 }
 
 .readmore_btn {
@@ -254,26 +258,37 @@
     color: #081c3f;
 }
 
+#list_item2 {
+    float: center;
+    margin: 5%;
+    padding: 12px 13px;
+    position: relative;
+    text-align: left;
+    border: 5px solid #ddd;
+    list-style: inside;
+    line-height: 190%;
+    color: #081c3f;
+}
+
 .awesome_copy2{
     width: 100%;
-    margin: 0 auto;
+    margin: 50px;
     float: left;
     background: white;
 }
 
-.awesome_copy2 h3{
-    color: #e00;
+#awesome_copy2 h3{
+    color: #FE2B03;
     float: center;
     font-family: 'Playfair Display', serif;
-    font-size: 32px;
-    font-weight: 500;
-    line-height: 200%;
-    margin: 0 auto;
+    font-size: 300%;
+    font-weight: 600;
+    line-height: 100%;
     text-align: center;
     text-transform: uppercase;
-    width: 100%;
-    position:relative;
+    width:100%;
 }
+
 .awesome_copy2 h4{
     color: #2870FE;
     float: center;

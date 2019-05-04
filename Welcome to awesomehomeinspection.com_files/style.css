@@ -1,5 +1,4 @@
 
-
 #topLogo img{
     width: 60%;
     display: block;
@@ -149,7 +148,7 @@
     position: relative;
     transition: all 0.3s ease-in-out 0s, opacity 0s linear 0.3s, z-index 0s linear 0.01s;
     visibility: hidden;
-    width: 220px;
+    width: 30%;
     z-index: -99;
 }
 .nav li:hover > ul {
@@ -256,12 +255,10 @@
     list-style: inside;
     line-height: 190%;
     color: #081c3f;
-    width:90%;
 }
 
 #list_item2 {
     float: center;
-    margin: 5%;
     padding: 12px 13px;
     position: relative;
     text-align: left;
@@ -272,7 +269,7 @@
 }
 
 .awesome_copy2{
-    width: 80%;
+    width: 100%;
     margin: 50px;
     float: left;
     background: white;
@@ -287,12 +284,13 @@
     line-height: 100%;
     text-align: center;
     text-transform: uppercase;
-    width:80%;
+    width:100%;
+    margin: 0 auto;
 }
 
 .awesome_copy2 h4{
     color: #2870FE;
-    float: left;
+    float: center;
     font-family: 'Playfair Display', serif;
     font-size: 24px;
     font-weight: 400;
@@ -300,11 +298,13 @@
     margin: 0 auto;
     text-align: center;
     text-transform: uppercase;
-    width: 80%;
+    width: 100%;
     position:relative;
 }
 .awesome_copy2 p{
     line-height: 150%;
+        width: 100%;
+
 }
 
 .footer{

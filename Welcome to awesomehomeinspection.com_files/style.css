@@ -271,6 +271,16 @@
     color: #081c3f;
 }
 
+#list_item3 {
+    float: left;
+    padding: 12px 13px;
+    position: relative;
+    text-align: left;
+    list-style: inside;
+    font-size:80%;
+    line-height: 190%;
+    color: #081c3f;
+}
 
 .awesome_copy2{
     width: 100%;

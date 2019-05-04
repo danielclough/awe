@@ -255,6 +255,7 @@
     list-style: inside;
     line-height: 190%;
     color: #081c3f;
+    width: 100%;
 }
 
 #list_item2 {
@@ -270,14 +271,14 @@
 
 .awesome_copy2{
     width: 100%;
-    margin: 50px;
+    margin: 0 auto;
     float: left;
     background: white;
 }
 
-#awesome_copy2 h3{
+.awesome_copy2 h3{
     color: #FE2B03;
-    float: center;
+    float: left;
     font-family: 'Playfair Display', serif;
     font-size: 300%;
     font-weight: 600;
@@ -290,7 +291,7 @@
 
 .awesome_copy2 h4{
     color: #2870FE;
-    float: center;
+    float: left;
     font-family: 'Playfair Display', serif;
     font-size: 24px;
     font-weight: 400;

@@ -247,7 +247,7 @@
 
 
 #list_item {
-    float: center;
+    float: left;
     margin: 1%;
     padding: 12px 13px;
     position: relative;
@@ -256,6 +256,7 @@
     list-style: inside;
     line-height: 190%;
     color: #081c3f;
+    width:90%;
 }
 
 #list_item2 {
@@ -291,7 +292,7 @@
 
 .awesome_copy2 h4{
     color: #2870FE;
-    float: center;
+    float: left;
     font-family: 'Playfair Display', serif;
     font-size: 24px;
     font-weight: 400;
@@ -299,7 +300,7 @@
     margin: 0 auto;
     text-align: center;
     text-transform: uppercase;
-    width: 100%;
+    width: 80%;
     position:relative;
 }
 .awesome_copy2 p{

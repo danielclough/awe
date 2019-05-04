@@ -253,7 +253,6 @@
     padding: 12px 13px;
     position: relative;
     text-align: left;
-    border: 1px solid #ddd;
     list-style: inside;
     line-height: 190%;
     color: #081c3f;
@@ -267,7 +266,6 @@
     padding: 12px 13px;
     position: relative;
     text-align: left;
-    border: 5px solid #ddd;
     list-style: inside;
     line-height: 190%;
     color: #081c3f;

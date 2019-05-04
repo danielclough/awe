@@ -262,7 +262,7 @@
 }
 
 #list_item2 {
-    float: center;
+    float: left;
     padding: 12px 13px;
     position: relative;
     text-align: left;
@@ -270,6 +270,7 @@
     line-height: 190%;
     color: #081c3f;
 }
+
 
 .awesome_copy2{
     width: 100%;
@@ -306,11 +307,9 @@
 }
 .awesome_copy2 h4 b{ color: #f00;}
 
-
 .awesome_copy2 p{
     line-height: 150%;
         width: 100%;
-
 }
 
 .footer{

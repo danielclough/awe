@@ -267,8 +267,13 @@
     position: relative;
     text-align: left;
     list-style: inside;
-    line-height: 190%;
+    line-height: 170%;
     color: #081c3f;
+}
+
+#list_item2 ul
+{
+    padding: 12px 13px;
 }
 
 #list_item3 {
@@ -278,8 +283,14 @@
     text-align: left;
     list-style: inside;
     font-size:80%;
-    line-height: 190%;
+    line-height: 150%;
     color: #081c3f;
+}
+
+#list_item3 ul
+{
+    margin: 0;
+    padding: 0;
 }
 
 .awesome_copy2{

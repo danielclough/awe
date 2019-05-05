@@ -201,7 +201,7 @@
     color: #FE2B03;
     float: left;
     font-family: 'Playfair Display', serif;
-    font-size: 300%;
+    font-size: 260%;
     font-weight: 600;
     line-height: 200%;
     margin: 0 auto;
@@ -211,10 +211,48 @@
 }
 #awesome_copy p{
     line-height: 100%;
-        font-size: 110%;
+        font-size: 110%;      
+}
 
 
-        
+.awesome_copy2{
+    width: 100%;
+    margin: 0 auto;
+    float: left;
+    background: white;
+}
+
+.awesome_copy2 h3{
+    color: #FE2B03;
+    float: left;
+    font-family: 'Playfair Display', serif;
+    font-size: 240%;
+    font-weight: 600;
+    line-height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    width:100%;
+    margin: 0 auto;
+}
+
+.awesome_copy2 h4{
+    color: #2870FE;
+    float: left;
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 150%;
+    margin: 0 auto;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+    position:relative;
+}
+.awesome_copy2 h4 b{ color: #f00;}
+
+.awesome_copy2 p{
+    line-height: 150%;
+        width: 100%;
 }
 
 .readmore_btn {
@@ -293,45 +331,6 @@
     padding: 0;
 }
 
-.awesome_copy2{
-    width: 100%;
-    margin: 0 auto;
-    float: left;
-    background: white;
-}
-
-.awesome_copy2 h3{
-    color: #FE2B03;
-    float: left;
-    font-family: 'Playfair Display', serif;
-    font-size: 240%;
-    font-weight: 600;
-    line-height: 100%;
-    text-align: center;
-    text-transform: uppercase;
-    width:100%;
-    margin: 0 auto;
-}
-
-.awesome_copy2 h4{
-    color: #2870FE;
-    float: left;
-    font-family: 'Playfair Display', serif;
-    font-size: 24px;
-    font-weight: 400;
-    line-height: 150%;
-    margin: 0 auto;
-    text-align: center;
-    text-transform: uppercase;
-    width: 100%;
-    position:relative;
-}
-.awesome_copy2 h4 b{ color: #f00;}
-
-.awesome_copy2 p{
-    line-height: 150%;
-        width: 100%;
-}
 
 .footer{
     background: #000;
@@ -393,5 +392,3 @@ h3 .divider-left {
     background: black;
 }
 
-.center {
-}
